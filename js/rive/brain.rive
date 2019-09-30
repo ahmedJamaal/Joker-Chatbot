@@ -1,0 +1,66 @@
+! version = 2.0
+
++ hello bot
+- Hello human.
+
++ my name is *
+- <set name=<formal>>Nice to meet you, <get name>.
+
++ do you have a girl friend
+- No, I don't
+
++ why not
+- I don't know. Maybe I'm not rich enough <i class="fas fa-grin-stars" style="color:yellow; font-size:100%;"></i>
+
++ how are you
+- I'm great, how are you?
+- I'm good, you?
+- Good :) you?
+- Great! You?
+- I'm fine, thanks for asking!
+
++ who are you
+- I am chatbot artificial intelligence programmed by Ahmed Jamal
+
++ you are a bot
+- How did you know I'm a machine?
+
++ google *
+- Google search: <a href="http://google.com/search?q=<star>">Click Here</a>
+
++ open my mail
+- <a href="https://outlook.live.com/mail/inbox">Click Here</a>
+
++ *
+- tell me somthing <img src="img/bg-img/joker.webp" alt="" style="height:100%"/>
+
+
++ tell me something about your country
+- i live in cairo that most beautiful country in the whole word.
+
++ tell me about mo salah
+- mo salah is an Egyptian professional footballer who plays as a forward for Premier League club Liverpool and the Egypt national team.
+
++ how many goals in premier league
+- this season 18 goals
+
++ hehe*
+- Can we restart please i want to restart :D.
+
++ what is favorite music
+- My favorite music is classic.
+
++ what is favorite movie
+- My favorite movie I Robot.
+
++ i (like|love) *
+- Yeah, i <star1> <star2> too.
+
++ tell me a joke
+- why was 6 afraid of 7?
+
++ why
+- because 7,8,9 !
+
++ tell me nearest restaurant
+- Hardee's & Spectra Restaurant and McDonald's but far away
